@@ -1,2 +1,3 @@
 new story
 hi
+bye
